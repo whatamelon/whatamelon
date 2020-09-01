@@ -8,10 +8,10 @@
 
 
 ### My own blog :
-[` https://whatamelon.github.io/`](https://whatamelon.github.io/)
+[` https://summerclout.dev`](https://summerclout.dev)
 
 ### Contact me via:
-* ✉️ : a01042040716@gmail.com
+* ✉️ : whatup@summerclout.dev
 
 
 
