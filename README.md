@@ -1,6 +1,6 @@
 # It's good to see ya! 👋
 
-### I'm Frontend Developer.
+### I'm Frontend Developer.  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhatamelon)](https://hits.seeyoufarm.com)
 
 #### Platform
 
@@ -22,7 +22,8 @@
 ### Profile & Contact Me!
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF5722.svg?logo=Blogger-studio&style=plastic)](https://summerclout.dev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=plastic&link=mailto:rlawjdxo88@gmail.com)](mailto:whatup@summerclout.dev)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhatamelon)](https://hits.seeyoufarm.com)
+
+
 
 
 
