@@ -17,7 +17,7 @@
 
 ### Training
 
-<img src="https://img.shields.io/badge/-Jekyll-CC0000.svg?logo=Jekyll&style=plastic"> <img src="https://img.shields.io/badge/-Haskell-5D4F85.svg?logo=Haskell&style=plastic">
+ <img src="https://img.shields.io/badge/-Elasticsearch-005571.svg?logo=Elasticsearch&style=plastic"> 
 
 ### Profile & Contact Me!
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF5722.svg?logo=Blogger-studio&style=plastic)](https://summerclout.dev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=plastic&link=mailto:rlawjdxo88@gmail.com)](mailto:whatup@summerclout.dev)
