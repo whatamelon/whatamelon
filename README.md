@@ -33,10 +33,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=whatamelon&theme=light&hide_langs_below=0&title_color=000" />
 </a>
 
-<a href="https://github.com/whatamelon">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=whatamelon&show_icons=false&theme=light&line_height=40&title_color=7221ff"
-</a>
-
 <a href="https://github.com/whatamelon/flutter_dropdown_below">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=whatamelon&repo=flutter_dropdown_below&theme=light&title_color=0084ff" />
 </a>
