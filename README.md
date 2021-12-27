@@ -1,3 +1,4 @@
+
 # It's good to see ya! 👋
 
 ### I'm Frontend Developer.  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhatamelon)](https://hits.seeyoufarm.com)
@@ -23,17 +24,11 @@
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF5722.svg?logo=Blogger-studio&style=plastic)](https://summerclout.dev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=plastic&link=mailto:rlawjdxo88@gmail.com)](mailto:whatup@summerclout.dev)
 
 
+***
 
+![Whatamelon's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=whatamelon&show_icons=false&theme=light&title_color=7221ff)
 
-
-
-
-
-<a href="https://github.com/whatamelon?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=whatamelon&theme=light&hide_langs_below=0&title_color=000" />
-</a>
-
-![whatamelon's github stats](https://github-readme-stats.vercel.app/api?username=whatamelon&show_icons=true)
+![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=whatamelon&theme=light&hide_langs_below=0&title_color=000&layout=compact)
 
 <a href="https://github.com/whatamelon/flutter_dropdown_below">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=whatamelon&repo=flutter_dropdown_below&theme=light&title_color=0084ff" />
