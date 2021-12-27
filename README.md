@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=whatamelon&theme=light&hide_langs_below=0&title_color=000" />
 </a>
 
-![iptodays's github stats](https://github-readme-stats.vercel.app/api?username=iptodays&show_icons=true)
+![whatamelon's github stats](https://github-readme-stats.vercel.app/api?username=whatamelon&show_icons=true)
 
 <a href="https://github.com/whatamelon/flutter_dropdown_below">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=whatamelon&repo=flutter_dropdown_below&theme=light&title_color=0084ff" />
