@@ -16,11 +16,11 @@
 
 <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=visual-studio-code&style=plastic"> <img src="https://img.shields.io/badge/-Android Studio-3DDC84.svg?logo=android-studio&style=plastic">
 
-### Training
+#### Training
 
- <img src="https://img.shields.io/badge/-Electron-209DC0.svg?logo=Electron&style=plastic"> 
+ <img src="https://img.shields.io/badge/-Electron-47848F.svg?logo=Electron&style=plastic"> <img src="https://img.shields.io/badge/-Typescript-3178C6.svg?logo=Typescript&style=plastic"> <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=Next.js&style=plastic"> 
 
-### Profile & Contact Me!
+#### Profile & Contact Me!
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF5722.svg?logo=Blogger-studio&style=plastic)](https://summerclout.dev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=plastic&link=mailto:rlawjdxo88@gmail.com)](mailto:whatup@summerclout.dev)
 
 
